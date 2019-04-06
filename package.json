@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server hw4",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-tichat/cpe207-web4.git"
+  },
+  "author": "Atichat Chantha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-tichat/cpe207-web4/issues"
+  },
+  "homepage": "https://github.com/A-tichat/cpe207-web4#readme",
+  "dependencies": {
+    "nodemon": "^1.18.10",
+    "uuid": "^3.3.2"
+  }
+}
